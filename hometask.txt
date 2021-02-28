@@ -8,3 +8,15 @@ index 6988c8d..975e13a 100644
 +Create release branch with human (master) in boots (boots branch) and hat (hat branch).
 
 Разница в тексте, содержащемся в файле readme
+
+Комментарии из коммиттов в удаленном репозитории:
+
+fix readme
+ 
+dots
+
+README added
+
+boots
+ 
+init
